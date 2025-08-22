@@ -1,0 +1,10 @@
+country,year,life_expectancy,health_expenditure_per_capita,infant_mortality_rate
+France,2018,82.5,4500,3.1
+France,2019,82.6,4600,3.0
+France,2020,82.4,4700,3.2
+Morocco,2018,76.5,1500,18.0
+Morocco,2019,76.7,1600,17.5
+Morocco,2020,76.6,1700,17.8
+USA,2018,78.7,10000,5.5
+USA,2019,78.8,10500,5.4
+USA,2020,78.5,11000,5.6
