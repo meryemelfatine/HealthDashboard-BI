@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 HealthDashboard-BI
 
 Un tableau de bord interactif développé avec **Streamlit**, permettant d’explorer et d’analyser la population mondiale à travers des graphiques dynamiques, cartes et comparaisons entre pays.
@@ -111,3 +112,7 @@ Déploiement sur Streamlit Cloud ou Heroku pour un accès en ligne.
 👩‍💻 Auteur
 Projet développé par Meryem El Fatine dans le cadre d’un portfolio Data/BI.
 N’hésite pas à ⭐ le repo si tu trouves ce projet utile !
+=======
+# HealthDashboard-BI
+Dashboard interactif sur les données de santé mondiales
+>>>>>>> 008baa6302e9b9732b0490d26676dd99f06a7080
